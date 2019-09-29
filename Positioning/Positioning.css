@@ -1,0 +1,36 @@
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {background-color: gray;
+}
+
+header {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #111;
+  background: #fff;
+}
+
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #111;
+  background: #fff;
+}
+
+#left {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #111;
+  background: #fff;
+}
+
+footer {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #111;
+  background: #fff;
+}
